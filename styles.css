@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #FAE8E0;
+}
+
+h1{
+    color: brown;
+    background-color: hsl(60, 56%, 91%, 90%);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+ul, li {
+    list-style-type: none;
+    text-decoration: none; 
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
