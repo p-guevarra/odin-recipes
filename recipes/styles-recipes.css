@@ -1,0 +1,46 @@
+* {
+    color: #4b2d29;
+}
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#E4E9EC;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+ul, li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    display: inline-block;
+    padding: 8px;
+    background-color: #875F59;
+    color: rgba(255, 255, 255, 0.664);
+}
+
+#go-back {
+    background-color: inherit;
+    color: inherit;
+}
+
+.container {
+    background-color: #C1B0A6;
+    padding: 30px;
+    margin: 12px;
+}
+
+.description {
+    text-align: center;
+}
